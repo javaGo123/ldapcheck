@@ -1,0 +1,5 @@
+userinfo:
+    ou: "rws"
+    base: "dc=bizoe123,dc=com"
+    host: "10.5.1.2"
+    port: "389"
