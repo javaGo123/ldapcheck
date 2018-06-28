@@ -1,0 +1,26 @@
+
+[[_definitions]]
+== 定义
+
+[[_aduser]]
+=== AdUser
+
+[options="header", cols=".^3a,.^11a,.^4a"]
+|===
+|名称|说明|类型
+|**base** +
+__可选__|base信息，例如dc=sensetime,dc=com|string
+|**host** +
+__可选__|AD域服务器IP|string
+|**name** +
+__可选__|AD域用户名|string
+|**ou** +
+__可选__|组织部门，例如ou=rws|string
+|**password** +
+__可选__|AD域用户密码|string
+|**port** +
+__可选__|AD域服务器PORT|string
+|===
+
+
+
